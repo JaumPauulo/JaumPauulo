@@ -1,8 +1,5 @@
 ### Opa! Eu sou o João Paulo 😄
 
-- 🔭 Focado no Front-end
-- 🌱 Estudando: Java,MySql,Html & Css com JavaScript ;)
-
 <div align="center">
   <a href="https://github.com/jaumPauulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaumPauulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
